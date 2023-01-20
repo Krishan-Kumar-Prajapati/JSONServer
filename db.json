@@ -65963,7 +65963,487 @@
     "material": "Off White Text",
     "price": 140,
     "id": "15"
-    }
+    },
+    {
+      "image": "https://clarks.scene7.com/is/image/Pangaea2Build/26170271_W_1?fmt=webp&wid=260",
+      "type": "Wallacraft Lo",
+      "description": "Womens Originals Icon Shoes",
+      "material": "Tan Embroidery",
+      "price": 160,
+      "id": "1"
+      },
+      {
+      "image": "https://clarks.scene7.com/is/image/Pangaea2Build/26170042_W_1?fmt=webp&wid=260",
+      "type": "Wallabee Cup",
+      "description": "Womens Originals Icon Shoes",
+      "material": "Blue Suede",
+      "price": 160,
+      "id": "2"
+      },
+      {
+      "image": "https://clarks.scene7.com/is/image/Pangaea2Build/26170520_W_1?fmt=webp&wid=260",
+      "type": "Ambyr Joy",
+      "description": "Womens Shoes",
+      "material": "Sand Metallic",
+      "price": 95,
+      "id": "3"
+      },
+      {
+      "image": "https://clarks.scene7.com/is/image/Pangaea2Build/26169920_W_1?fmt=webp&wid=260",
+      "type": "Wallabee",
+      "description": "Womens Originals Icon Shoes",
+      "material": "Tortoiseshell",
+      "price": 170,
+      "id": "4"
+      },
+      {
+      "image": "https://clarks.scene7.com/is/image/Pangaea2Build/26169945_W_1?fmt=webp&wid=260",
+      "type": "Desert Boot",
+      "description": "Womens Originals Icon Shoes",
+      "material": "Tortoiseshell",
+      "price": 160,
+      "id": "5"
+      },
+      {
+      "image": "https://clarks.scene7.com/is/image/Pangaea2Build/26169946_W_1?fmt=webp&wid=260",
+      "type": "Desert Boot",
+      "description": "Womens Originals Icon Shoes",
+      "material": "Maple Suede",
+      "price": 150,
+      "id": "6"
+      },
+      {
+      "image": "https://clarks.scene7.com/is/image/Pangaea2Build/26169923_W_1?fmt=webp&wid=260",
+      "type": "Wallabee",
+      "description": "Womens Originals Icon Shoes",
+      "material": "Oakmoss Nubuck",
+      "price": 160,
+      "id": "7"
+      },
+      {
+      "image": "https://clarks.scene7.com/is/image/Pangaea2Build/26169921_W_1?fmt=webp&wid=260",
+      "type": "Wallabee",
+      "description": "Womens Originals Icon Shoes",
+      "material": "Grey Nubuck",
+      "price": 160,
+      "id": "8"
+      },
+      {
+      "image": "https://clarks.scene7.com/is/image/Pangaea2Build/26171202_W_1?fmt=webp&wid=260",
+      "type": "Fiana Braley",
+      "description": "Womens Sport Shoes",
+      "material": "Black Leather",
+      "price": 85,
+      "id": "9"
+      },
+      {
+      "image": "https://clarks.scene7.com/is/image/Pangaea2Build/26171205_W_1?fmt=webp&wid=260",
+      "type": "Fiana Braley",
+      "description": "Womens Sport Shoes",
+      "material": "White Leather",
+      "price": 85,
+      "id": "10"
+      },
+      {
+      "image": "https://clarks.scene7.com/is/image/Pangaea2Build/26171331_W_1?fmt=webp&wid=260",
+      "type": "Talene Pace",
+      "description": "Womens Shoes",
+      "material": "Black Leather",
+      "price": 95,
+      "id": "11"
+      },
+      {
+      "image": "https://clarks.scene7.com/is/image/Pangaea2Build/26171332_W_1?fmt=webp&wid=260",
+      "type": "Talene Pace",
+      "description": "Womens Shoes",
+      "material": "Black Leather",
+      "price": 95,
+      "id": "12"
+      },
+      {
+      "image": "https://clarks.scene7.com/is/image/Pangaea2Build/26170437_W_1?fmt=webp&wid=260",
+      "type": "Dash Lite Strap",
+      "description": "Womens Sport Shoes",
+      "material": "Light Grey Combination",
+      "price": 110,
+      "id": "13"
+      },
+      {
+      "image": "https://clarks.scene7.com/is/image/Pangaea2Build/26170436_W_1?fmt=webp&wid=260",
+      "type": "Dash Lite Strap",
+      "description": "Womens Sport Shoes",
+      "material": "Black Leather",
+      "price": 110,
+      "id": "14"
+      },
+      {
+      "image": "https://clarks.scene7.com/is/image/Pangaea2Build/26170573_W_1?fmt=webp&wid=260",
+      "type": "ATL Trek Knit Waterproof Off White Text",
+      "description": "Womens Sport Shoes",
+      "material": "Off White Text",
+      "price": 140,
+      "id": "15"
+      },
+      {
+        "image": "https://clarks.scene7.com/is/image/Pangaea2Build/26170271_W_1?fmt=webp&wid=260",
+        "type": "Wallacraft Lo",
+        "description": "Womens Originals Icon Shoes",
+        "material": "Tan Embroidery",
+        "price": 160,
+        "id": "1"
+        },
+        {
+        "image": "https://clarks.scene7.com/is/image/Pangaea2Build/26170042_W_1?fmt=webp&wid=260",
+        "type": "Wallabee Cup",
+        "description": "Womens Originals Icon Shoes",
+        "material": "Blue Suede",
+        "price": 160,
+        "id": "2"
+        },
+        {
+        "image": "https://clarks.scene7.com/is/image/Pangaea2Build/26170520_W_1?fmt=webp&wid=260",
+        "type": "Ambyr Joy",
+        "description": "Womens Shoes",
+        "material": "Sand Metallic",
+        "price": 95,
+        "id": "3"
+        },
+        {
+        "image": "https://clarks.scene7.com/is/image/Pangaea2Build/26169920_W_1?fmt=webp&wid=260",
+        "type": "Wallabee",
+        "description": "Womens Originals Icon Shoes",
+        "material": "Tortoiseshell",
+        "price": 170,
+        "id": "4"
+        },
+        {
+        "image": "https://clarks.scene7.com/is/image/Pangaea2Build/26169945_W_1?fmt=webp&wid=260",
+        "type": "Desert Boot",
+        "description": "Womens Originals Icon Shoes",
+        "material": "Tortoiseshell",
+        "price": 160,
+        "id": "5"
+        },
+        {
+        "image": "https://clarks.scene7.com/is/image/Pangaea2Build/26169946_W_1?fmt=webp&wid=260",
+        "type": "Desert Boot",
+        "description": "Womens Originals Icon Shoes",
+        "material": "Maple Suede",
+        "price": 150,
+        "id": "6"
+        },
+        {
+        "image": "https://clarks.scene7.com/is/image/Pangaea2Build/26169923_W_1?fmt=webp&wid=260",
+        "type": "Wallabee",
+        "description": "Womens Originals Icon Shoes",
+        "material": "Oakmoss Nubuck",
+        "price": 160,
+        "id": "7"
+        },
+        {
+        "image": "https://clarks.scene7.com/is/image/Pangaea2Build/26169921_W_1?fmt=webp&wid=260",
+        "type": "Wallabee",
+        "description": "Womens Originals Icon Shoes",
+        "material": "Grey Nubuck",
+        "price": 160,
+        "id": "8"
+        },
+        {
+        "image": "https://clarks.scene7.com/is/image/Pangaea2Build/26171202_W_1?fmt=webp&wid=260",
+        "type": "Fiana Braley",
+        "description": "Womens Sport Shoes",
+        "material": "Black Leather",
+        "price": 85,
+        "id": "9"
+        },
+        {
+        "image": "https://clarks.scene7.com/is/image/Pangaea2Build/26171205_W_1?fmt=webp&wid=260",
+        "type": "Fiana Braley",
+        "description": "Womens Sport Shoes",
+        "material": "White Leather",
+        "price": 85,
+        "id": "10"
+        },
+        {
+        "image": "https://clarks.scene7.com/is/image/Pangaea2Build/26171331_W_1?fmt=webp&wid=260",
+        "type": "Talene Pace",
+        "description": "Womens Shoes",
+        "material": "Black Leather",
+        "price": 95,
+        "id": "11"
+        },
+        {
+        "image": "https://clarks.scene7.com/is/image/Pangaea2Build/26171332_W_1?fmt=webp&wid=260",
+        "type": "Talene Pace",
+        "description": "Womens Shoes",
+        "material": "Black Leather",
+        "price": 95,
+        "id": "12"
+        },
+        {
+        "image": "https://clarks.scene7.com/is/image/Pangaea2Build/26170437_W_1?fmt=webp&wid=260",
+        "type": "Dash Lite Strap",
+        "description": "Womens Sport Shoes",
+        "material": "Light Grey Combination",
+        "price": 110,
+        "id": "13"
+        },
+        {
+        "image": "https://clarks.scene7.com/is/image/Pangaea2Build/26170436_W_1?fmt=webp&wid=260",
+        "type": "Dash Lite Strap",
+        "description": "Womens Sport Shoes",
+        "material": "Black Leather",
+        "price": 110,
+        "id": "14"
+        },
+        {
+        "image": "https://clarks.scene7.com/is/image/Pangaea2Build/26170573_W_1?fmt=webp&wid=260",
+        "type": "ATL Trek Knit Waterproof Off White Text",
+        "description": "Womens Sport Shoes",
+        "material": "Off White Text",
+        "price": 140,
+        "id": "15"
+        },
+        {
+          "image": "https://clarks.scene7.com/is/image/Pangaea2Build/26170271_W_1?fmt=webp&wid=260",
+          "type": "Wallacraft Lo",
+          "description": "Womens Originals Icon Shoes",
+          "material": "Tan Embroidery",
+          "price": 160,
+          "id": "1"
+          },
+          {
+          "image": "https://clarks.scene7.com/is/image/Pangaea2Build/26170042_W_1?fmt=webp&wid=260",
+          "type": "Wallabee Cup",
+          "description": "Womens Originals Icon Shoes",
+          "material": "Blue Suede",
+          "price": 160,
+          "id": "2"
+          },
+          {
+          "image": "https://clarks.scene7.com/is/image/Pangaea2Build/26170520_W_1?fmt=webp&wid=260",
+          "type": "Ambyr Joy",
+          "description": "Womens Shoes",
+          "material": "Sand Metallic",
+          "price": 95,
+          "id": "3"
+          },
+          {
+          "image": "https://clarks.scene7.com/is/image/Pangaea2Build/26169920_W_1?fmt=webp&wid=260",
+          "type": "Wallabee",
+          "description": "Womens Originals Icon Shoes",
+          "material": "Tortoiseshell",
+          "price": 170,
+          "id": "4"
+          },
+          {
+          "image": "https://clarks.scene7.com/is/image/Pangaea2Build/26169945_W_1?fmt=webp&wid=260",
+          "type": "Desert Boot",
+          "description": "Womens Originals Icon Shoes",
+          "material": "Tortoiseshell",
+          "price": 160,
+          "id": "5"
+          },
+          {
+          "image": "https://clarks.scene7.com/is/image/Pangaea2Build/26169946_W_1?fmt=webp&wid=260",
+          "type": "Desert Boot",
+          "description": "Womens Originals Icon Shoes",
+          "material": "Maple Suede",
+          "price": 150,
+          "id": "6"
+          },
+          {
+          "image": "https://clarks.scene7.com/is/image/Pangaea2Build/26169923_W_1?fmt=webp&wid=260",
+          "type": "Wallabee",
+          "description": "Womens Originals Icon Shoes",
+          "material": "Oakmoss Nubuck",
+          "price": 160,
+          "id": "7"
+          },
+          {
+          "image": "https://clarks.scene7.com/is/image/Pangaea2Build/26169921_W_1?fmt=webp&wid=260",
+          "type": "Wallabee",
+          "description": "Womens Originals Icon Shoes",
+          "material": "Grey Nubuck",
+          "price": 160,
+          "id": "8"
+          },
+          {
+          "image": "https://clarks.scene7.com/is/image/Pangaea2Build/26171202_W_1?fmt=webp&wid=260",
+          "type": "Fiana Braley",
+          "description": "Womens Sport Shoes",
+          "material": "Black Leather",
+          "price": 85,
+          "id": "9"
+          },
+          {
+          "image": "https://clarks.scene7.com/is/image/Pangaea2Build/26171205_W_1?fmt=webp&wid=260",
+          "type": "Fiana Braley",
+          "description": "Womens Sport Shoes",
+          "material": "White Leather",
+          "price": 85,
+          "id": "10"
+          },
+          {
+          "image": "https://clarks.scene7.com/is/image/Pangaea2Build/26171331_W_1?fmt=webp&wid=260",
+          "type": "Talene Pace",
+          "description": "Womens Shoes",
+          "material": "Black Leather",
+          "price": 95,
+          "id": "11"
+          },
+          {
+          "image": "https://clarks.scene7.com/is/image/Pangaea2Build/26171332_W_1?fmt=webp&wid=260",
+          "type": "Talene Pace",
+          "description": "Womens Shoes",
+          "material": "Black Leather",
+          "price": 95,
+          "id": "12"
+          },
+          {
+          "image": "https://clarks.scene7.com/is/image/Pangaea2Build/26170437_W_1?fmt=webp&wid=260",
+          "type": "Dash Lite Strap",
+          "description": "Womens Sport Shoes",
+          "material": "Light Grey Combination",
+          "price": 110,
+          "id": "13"
+          },
+          {
+          "image": "https://clarks.scene7.com/is/image/Pangaea2Build/26170436_W_1?fmt=webp&wid=260",
+          "type": "Dash Lite Strap",
+          "description": "Womens Sport Shoes",
+          "material": "Black Leather",
+          "price": 110,
+          "id": "14"
+          },
+          {
+          "image": "https://clarks.scene7.com/is/image/Pangaea2Build/26170573_W_1?fmt=webp&wid=260",
+          "type": "ATL Trek Knit Waterproof Off White Text",
+          "description": "Womens Sport Shoes",
+          "material": "Off White Text",
+          "price": 140,
+          "id": "15"
+          },
+          {
+            "image": "https://clarks.scene7.com/is/image/Pangaea2Build/26170271_W_1?fmt=webp&wid=260",
+            "type": "Wallacraft Lo",
+            "description": "Womens Originals Icon Shoes",
+            "material": "Tan Embroidery",
+            "price": 160,
+            "id": "1"
+            },
+            {
+            "image": "https://clarks.scene7.com/is/image/Pangaea2Build/26170042_W_1?fmt=webp&wid=260",
+            "type": "Wallabee Cup",
+            "description": "Womens Originals Icon Shoes",
+            "material": "Blue Suede",
+            "price": 160,
+            "id": "2"
+            },
+            {
+            "image": "https://clarks.scene7.com/is/image/Pangaea2Build/26170520_W_1?fmt=webp&wid=260",
+            "type": "Ambyr Joy",
+            "description": "Womens Shoes",
+            "material": "Sand Metallic",
+            "price": 95,
+            "id": "3"
+            },
+            {
+            "image": "https://clarks.scene7.com/is/image/Pangaea2Build/26169920_W_1?fmt=webp&wid=260",
+            "type": "Wallabee",
+            "description": "Womens Originals Icon Shoes",
+            "material": "Tortoiseshell",
+            "price": 170,
+            "id": "4"
+            },
+            {
+            "image": "https://clarks.scene7.com/is/image/Pangaea2Build/26169945_W_1?fmt=webp&wid=260",
+            "type": "Desert Boot",
+            "description": "Womens Originals Icon Shoes",
+            "material": "Tortoiseshell",
+            "price": 160,
+            "id": "5"
+            },
+            {
+            "image": "https://clarks.scene7.com/is/image/Pangaea2Build/26169946_W_1?fmt=webp&wid=260",
+            "type": "Desert Boot",
+            "description": "Womens Originals Icon Shoes",
+            "material": "Maple Suede",
+            "price": 150,
+            "id": "6"
+            },
+            {
+            "image": "https://clarks.scene7.com/is/image/Pangaea2Build/26169923_W_1?fmt=webp&wid=260",
+            "type": "Wallabee",
+            "description": "Womens Originals Icon Shoes",
+            "material": "Oakmoss Nubuck",
+            "price": 160,
+            "id": "7"
+            },
+            {
+            "image": "https://clarks.scene7.com/is/image/Pangaea2Build/26169921_W_1?fmt=webp&wid=260",
+            "type": "Wallabee",
+            "description": "Womens Originals Icon Shoes",
+            "material": "Grey Nubuck",
+            "price": 160,
+            "id": "8"
+            },
+            {
+            "image": "https://clarks.scene7.com/is/image/Pangaea2Build/26171202_W_1?fmt=webp&wid=260",
+            "type": "Fiana Braley",
+            "description": "Womens Sport Shoes",
+            "material": "Black Leather",
+            "price": 85,
+            "id": "9"
+            },
+            {
+            "image": "https://clarks.scene7.com/is/image/Pangaea2Build/26171205_W_1?fmt=webp&wid=260",
+            "type": "Fiana Braley",
+            "description": "Womens Sport Shoes",
+            "material": "White Leather",
+            "price": 85,
+            "id": "10"
+            },
+            {
+            "image": "https://clarks.scene7.com/is/image/Pangaea2Build/26171331_W_1?fmt=webp&wid=260",
+            "type": "Talene Pace",
+            "description": "Womens Shoes",
+            "material": "Black Leather",
+            "price": 95,
+            "id": "11"
+            },
+            {
+            "image": "https://clarks.scene7.com/is/image/Pangaea2Build/26171332_W_1?fmt=webp&wid=260",
+            "type": "Talene Pace",
+            "description": "Womens Shoes",
+            "material": "Black Leather",
+            "price": 95,
+            "id": "12"
+            },
+            {
+            "image": "https://clarks.scene7.com/is/image/Pangaea2Build/26170437_W_1?fmt=webp&wid=260",
+            "type": "Dash Lite Strap",
+            "description": "Womens Sport Shoes",
+            "material": "Light Grey Combination",
+            "price": 110,
+            "id": "13"
+            },
+            {
+            "image": "https://clarks.scene7.com/is/image/Pangaea2Build/26170436_W_1?fmt=webp&wid=260",
+            "type": "Dash Lite Strap",
+            "description": "Womens Sport Shoes",
+            "material": "Black Leather",
+            "price": 110,
+            "id": "14"
+            },
+            {
+            "image": "https://clarks.scene7.com/is/image/Pangaea2Build/26170573_W_1?fmt=webp&wid=260",
+            "type": "ATL Trek Knit Waterproof Off White Text",
+            "description": "Womens Sport Shoes",
+            "material": "Off White Text",
+            "price": 140,
+            "id": "15"
+            }
     ]
 
   
